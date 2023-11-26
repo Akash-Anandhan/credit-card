@@ -14,7 +14,7 @@ body{
 
 }        
 .container{
-    background-image: url(/images/background.jpg);
+    background-image: url(//images/background.jpg);
     background-size:cover;
     width: 100%;
     max-width: 350px;
